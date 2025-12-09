@@ -1,19 +1,17 @@
 ## Hi there, I'm Khuzama 👋
 
-💻 AI & Data Science enthusiast who enjoys working with data and building practical solutions.
-
----
-
-### 🌱 Know Me
-- Learning AI & Data Science
-- Interested in analytics and real-world data problems
+### 🌱 About me 
+- AI and Data Science learner who enjoys working with data.
 - 📫 Reach me: khozamaalkhowaiter@gmail.com
 
 ---
 
-### 🛠️ My Skills
+## 🛠️ My Skills
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,git,github,tensorflow,pytorch,opencv,mysql,mongodb,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,mysql,mongodb,git,figma&perline=6" />
+  <br><br>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
 </p>
 
 ---
