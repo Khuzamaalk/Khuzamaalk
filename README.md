@@ -2,19 +2,22 @@
 
 ### 🌱 About Me
 - AI and Data Science learner who enjoys working with data
+  
 ---
 
 ## 🛠️ My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,mysql,mongodb,figma&perline=5" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,mysql,mongodb,figma,git&perline=6" alt="Skills Row 1" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
 </p>
 
 ---
