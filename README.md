@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Khuzama 👋
 
-<!--
-**Khuzamaalk/Khuzamaalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI & Data Science enthusiast who enjoys working with data and building practical solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Know Me
+- Learning AI & Data Science
+- Interested in analytics and real-world data problems
+- 📫 Reach me: khozamaalkhowaiter@gmail.com
+
+---
+
+### 🛠️ My Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,git,github,tensorflow,pytorch,opencv,mysql,mongodb,figma&perline=6" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
