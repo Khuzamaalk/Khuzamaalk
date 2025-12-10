@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ My Skills
+## 🛠️ My skills & tools
 
 <table>
   <tr>
